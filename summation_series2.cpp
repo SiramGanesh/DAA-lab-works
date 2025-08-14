@@ -1,4 +1,4 @@
-// approach 3
+// approach 2
 // Time complexity: O(1)
 #include <iostream>
 #include <cmath>
@@ -17,3 +17,4 @@ int main() {
     cin >> X >> n;
     cout << "Sum = " << series_sum_formula(X, n) << endl;
 }
+
